@@ -24,4 +24,4 @@ License
     See the License for the specific language governing permissions and
     limitations under the License.
 [1]:http://unity3d.com/learn/tutorials/projects/roll-a-ball
-[2]:https://github.com/MiguelCatalan/master/Images/Screenshot.PNG
+[2]:https://raw.github.com/MiguelCatalan/Roll-a-ball/master/Images/Screenshot.PNG
